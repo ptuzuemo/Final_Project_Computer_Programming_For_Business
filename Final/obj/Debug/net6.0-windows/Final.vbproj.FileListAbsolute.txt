@@ -1,0 +1,17 @@
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Final\bin\Debug\net6.0-windows\Final.exe
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Final\bin\Debug\net6.0-windows\Final.deps.json
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Final\bin\Debug\net6.0-windows\Final.runtimeconfig.json
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Final\bin\Debug\net6.0-windows\Final.dll
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Final\bin\Debug\net6.0-windows\Final.pdb
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Final\obj\Debug\net6.0-windows\Final.vbproj.AssemblyReference.cache
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Final\obj\Debug\net6.0-windows\Final.Form1.resources
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Final\obj\Debug\net6.0-windows\Final.vbproj.GenerateResource.cache
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Final\obj\Debug\net6.0-windows\Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Final\obj\Debug\net6.0-windows\Final.AssemblyInfoInputs.cache
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Final\obj\Debug\net6.0-windows\Final.AssemblyInfo.vb
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Final\obj\Debug\net6.0-windows\Final.vbproj.CoreCompileInputs.cache
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Final\obj\Debug\net6.0-windows\Final.dll
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Final\obj\Debug\net6.0-windows\refint\Final.dll
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Final\obj\Debug\net6.0-windows\Final.pdb
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Final\obj\Debug\net6.0-windows\Final.genruntimeconfig.cache
+C:\Users\ptuzu\OneDrive\Documents\SCHOOL\SPRING 2023\BIS 260\Final\obj\Debug\net6.0-windows\ref\Final.dll
